@@ -1,0 +1,75 @@
+weapons
+
+
+melee
+
+short sword
+	pw: 2
+	du: 10
+	
+sword
+	pw: 4
+	du: 10
+	
+long sword
+	pw: 6
+	du: 15
+	
+broad sword
+	pw: 8
+	du: 15
+	
+holy sword
+	pw: 10
+	du: 20
+	
+
+ranged
+
+short bow
+	pw: 2
+	du: 10
+	ra: 2
+	
+bow
+	pw: 2
+	du: 10
+	ra: 3
+	
+longbow
+	pw: 3
+	du: 10
+	ra: 4
+	
+steel longbow
+	pw: 3
+	du: 20
+	ra: 4
+	
+holy bow
+	pw: 4
+	du: 20
+	ra: 5
+	
+
+stunner
+
+rock
+	pw: 0.5
+	du: 10
+	ra: 2
+	
+sling
+	pw: 1
+	du: 10
+	ra: 2
+	
+war sling
+	pw: 1.5
+	du: 15
+	ra: 3
+	
+holy sling
+	pw: 2
+	du: 20
+	ra: 3

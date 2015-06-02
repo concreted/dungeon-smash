@@ -1,0 +1,20 @@
+Dungeon Smash
+Structure
+
+
+Player is a Square.
+
+3-square array for Weapons.
+
+3-square array for Items.
+
+2-square array for Skills.
+
+6-square array for left horizontal line next to player. This array randomly generates new members when it has less than 6 members.
+
+6-square array for right horizontal line next to player. This array randomly generates new members when it has less than 6 members.
+
+3x6 Square array for the central vertical column. This array randomly generates new rows of members when it has less than 6 rows.
+
+
+Squares contain the sprite to be displayed for that square, and any other relevant data.

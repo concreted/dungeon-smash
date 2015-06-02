@@ -1,0 +1,40 @@
+Dungeon Smash
+Classes
+
+
+Sprite
+	int size
+	
+
+Square
+	Sprite sprite
+	int size
+	
+	Tap()
+	
+Player (Square)
+	int health 
+		Health represented by hearts, each divided into quarters.
+	
+	Weapon[3] 
+	
+	Item[3]
+	
+	Skill[2]
+		Defend is a skill.
+		
+Enemy (Square)
+	int health
+	int power
+	int state
+	
+Weapon (Square)
+	int durability
+	int power
+	int/string type
+	
+Item (Square)
+
+Skill (Square)
+	const int full_charge
+	int chargeasdfasdf

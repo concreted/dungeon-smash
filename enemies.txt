@@ -1,0 +1,158 @@
+enemies
+
+
+brown spider
+	hp: 0.5
+	pw: 0.5
+	
+grey spider
+	hp: 0.5
+	pw: 1
+
+dark grey spider
+	hp: 1
+	pw: 1
+
+
+green snake
+	hp: 0.5
+	pw: 1
+
+blue snake
+	hp: 1
+	pw: 1.5
+
+red snake
+	hp: 1
+	pw: 2
+
+
+blue crab
+	hp: 1.5
+	pw: 1
+
+red crab
+	hp: 2
+	pw: 2
+
+
+dog
+	hp: 2
+	pw: 2
+
+grey wolf
+	hp: 3
+	pw: 3
+
+white wolf
+	hp: 4
+	pw: 4
+
+
+green slime
+	hp: 1
+	pw: 1
+
+blue slime
+	hp: 2
+	pw: 1
+
+red slime
+	hp: 3
+	pw: 1.5
+
+
+green jelly
+	hp: 2
+	pw: 1
+
+blue jelly
+	hp: 3
+	pw: 2
+
+red jelly
+	hp: 4
+	pw: 2
+
+
+orc grunt
+	hp: 2
+	pw: 2
+
+orc fighter
+	hp: 3
+	pw: 3
+
+orc knight
+	hp: 4
+	pw: 4
+
+
+green stalker
+	hp: 6
+	pw: 2
+
+blue stalker
+	hp: 8
+	pw: 2
+
+red stalker
+	hp: 10
+	pw: 2
+
+
+green horror
+	hp: 4
+	pw: 4
+
+blue horror
+	hp: 4
+	pw: 6
+
+red horror
+	hp: 4
+	pw: 8
+
+
+zombie
+	hp: 3
+	pw: 2
+
+skeleton
+	hp: 2
+	pw: 4
+
+wraith
+	hp: 6
+	pw: 6
+
+
+lesser demon
+	hp: 6
+	pw: 6
+
+demon
+	hp: 9
+	pw: 6
+
+greater demon
+	hp: 12
+	pw: 9
+
+
+green dragon
+	hp: 20
+	pw: 10
+
+blue dragon
+	hp: 40
+	pw: 11
+
+red dragon
+	hp: 60
+	pw: 12
+
+
+crusader
+	hp: 12
+	pw: 8

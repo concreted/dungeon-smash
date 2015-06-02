@@ -1,0 +1,3 @@
+cd C:\pgs4a
+
+C:\python27\python.exe android.py build app release install

@@ -1,0 +1,9 @@
+1/5
+	- Excessive printing to console can cause crashes when run in pythonw (some kind of buffer overlow?)
+	
+	- Should have thought through architecture first - lack of DS_Stream class making stream management difficult
+	
+1/12
+	- Class variables should be set in __init__ method. If set globally for the class and not reinitialized in constructor, they will be the same for all instances of the class
+	
+	- To convert list to DS_Stream, can overload operators

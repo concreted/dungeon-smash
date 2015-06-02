@@ -1,0 +1,70 @@
+Dungeon Smash
+Design Doc
+12/31/2012
+
+The player is a square sprite at the intersection of a cross-shaped grid. Above him and to his left and right are lines of squares. 
+
+Actions available to the player are:
+
+	Go up, left, or right. 
+	
+		If the player goes up and defeats the enemy/picks up the item in the central vertical grid spot, the two squares to the left and right of that spot "drop down" directly next to the player into the left/right horizontal rows. 
+		
+		If there is a sandbag next to the player when he goes up, the "falling" squares go behind the sandbag.
+	
+	Defend.
+	
+	Change weapon.
+	
+	Throw weapon. 
+	
+	Use skill (divine ability).
+
+The vertical line of squares above him terminates in a end-of-level square after a fixed number of squares. 
+
+Each square in the vertical line line has two additional squares to the left and right.
+
+The horizontal lines of squares to his left and right continue indefinitely and are randomly generated.
+
+These horizontal and vertical squares can be any one of the following types:
+	
+	Enemies.
+	
+		Enemies in the central vertical line are neutral until they are two or less squares away from the player. When they are "in range", they go aggro and are prepared for attack.
+		
+		Enemies in the left or right vertical lines, or the two horizontal lines, stay neutral until they are one square (directly next to) the player. Then they go aggro.
+	
+	Treasure chests.		
+	
+	Crosses.
+		
+		Crosses charge your skill by 10 points. If the skill is "overcharged", i.e. needs 5 points to full charge, the extra points go to your health.
+		
+The following squares are not found in the central vertical line:
+
+	Sandbags.
+	
+		Sandbags are used to block attack from left and right. Squares from the vertical column "fall" behind the sandbag.
+
+Treasure chests can contain any of the following:
+
+	Wielded weapons, i.e. daggers, swords, axes.
+	
+	Ranged weapons, i.e. slings, bows.
+	
+	Consumable weapons, i.e. throwing knives, throwing stars.
+	
+	Ranged weapon ammunition, i.e. rocks, arrows.
+	
+	Spell scrolls, i.e. heal, fireball, lightning, 
+
+Below the player is a Defend icon. 
+
+
+
+
+		
+	
+
+	
+	

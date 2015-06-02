@@ -1,0 +1,106 @@
+items
+
+
+affect player (defensive)
+
+heal 1
+	hp + 4
+	
+heal 2
+	hp + 8
+	
+heal 3
+	hp + 12
+	
+aura 1
+	double melee damage x 2 turns
+	
+aura 2
+	double melee damage x 3 turns
+	
+aura 3
+	double melee damage x 4 turns
+	
+shield 1
+	no damage x 2 turns
+
+shield 2
+	no damage x 3 turns
+	
+shield 3
+	no damage x 4 turns
+	
+haste 1
+	take 1 extra turn
+	
+haste 2
+	take 2 extra turns
+	
+haste 3
+	take 3 extra turns
+	
+invisibility 1
+	all enemies de-aggro for 2 turns
+	
+invisibility 2
+	all enemies de-aggro for 3 turns
+	
+invisibility 3
+	all enemies de-aggro for 4 turns
+	
+holy aura
+	double melee damage + melee attack stun + quarter damage x 4 turns
+	
+	
+affect enemy (offensive)
+
+magic missile 1
+	4 dmg x 2 target
+	
+magic missile 2
+	4 dmg x 3 targets
+	
+magic missile 3
+	4 dmg x 4 targets
+	
+drain 1
+	2 dmg x 1 target, hp + 2
+	
+drain 2
+	2 dmg x 2 targets, hp + 4
+	
+drain 3
+	2 dmg x 3 targets, hp + 6
+	
+fireball 1
+	8 dmg along center row
+	
+fireball 2
+	12 dmg along center row
+	
+fireball 3
+	16 dmg along center row
+	
+cold blast 1
+	1 dmg + stun all in range/adjacent enemies x 2 turns
+	
+cold blast 2
+	1 dmg + stun all in range/adjacent enemies x 3 turns
+	
+cold blast 3
+	1 dmg + stun all in range/adjacent enemies x 4 turns
+	
+petrify 1
+	1 enemy -> barrier
+	
+petrify 2
+	2 enemies -> barriers
+	
+petrify 3
+	3 enemies -> barriers
+	
+death scroll
+	kill one normal enemy
+	
+holy scroll
+	kill one undead/demonic enemy

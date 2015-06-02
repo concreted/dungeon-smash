@@ -1,0 +1,34 @@
+bosses
+
+
+troll
+	hp: 12
+	pw: 4
+	
+beholder
+	hp: 18
+	pw: 6
+	
+mindflayer
+	hp: 25
+	pw: 8
+	
+green dragon
+	hp: 50
+	pw: 10
+	
+tower knight
+	hp: 66
+	pw: 6
+	
+death knight
+	hp: 66
+	pw: 6
+	
+dread knight
+	hp: 66
+	pw: 6
+	
+necromancer
+	hp: 100
+	pw: 6
